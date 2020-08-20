@@ -1,1 +1,1 @@
-plot(weight, col="red")
+plot(weight, col="green")
